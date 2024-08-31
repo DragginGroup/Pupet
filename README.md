@@ -1,3 +1,13 @@
+# 8/31/2024
+
+## pre-1.04
+- Fixed Bug where the “Petter” Shop Item would register clicks when they shouldn’t
+- Fixed Shop automatically being open
+- Fixed Old Saves not able to be reloaded after a Save Reset
+- Changed how Shop Items work.
+- Changed how Shop Items are optimized
+- Added Pet counter outside of the status Tab
+
 # 8/30/2024
 
 ## pre-1.03
