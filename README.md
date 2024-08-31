@@ -1,5 +1,10 @@
 # 8/31/2024
 
+## pre-1.041
+- Fixed Bug where having your name as lagman would disable Shop item(s)
+- Fixed how Usernames are trimmed when they overlap the non-pet zone
+- Fixed? blank username
+
 ## pre-1.04
 - Fixed Bug where the “Petter” Shop Item would register clicks when they shouldn’t
 - Fixed Shop automatically being open
