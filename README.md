@@ -22,18 +22,6 @@
 
 # 8/29/2024
 
-## pre-1
-- Base Project
-
-## pre-1.01
-- Added Save Reset Button
-- Added Save Button
-- Added Autosave Display
-- Added Autosaving (every minute)
-- Added Pets per Second functionality
-- Removed automatic save reset
-- Removed not "touching mouse pointer" block from Pup spr
-
 ## pre-1.02
 - Added cool Autosaved Animation
 - Added Alignment to Buttons, TextEngine, and Pup (default: up)
@@ -46,3 +34,15 @@
 - Changed Pet Display to use TextEngine
 - Changed Version Display to use TextEngine
 - Changed Total Pets Display to use TextEngine
+
+## pre-1.01
+- Added Save Reset Button
+- Added Save Button
+- Added Autosave Display
+- Added Autosaving (every minute)
+- Added Pets per Second functionality
+- Removed automatic save reset
+- Removed not "touching mouse pointer" block from Pup spr
+
+## pre-1
+- Base Project
