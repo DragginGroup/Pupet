@@ -1,0 +1,9 @@
+# 9/1/2024
+
+## pre-1.05
+- Added "[username] is loading" message to loading screen
+- Added Custom tail for the "white" skin of the pup
+- Added Username Setting Menu at the start of gameplay (doubles as debug menu)
+- Added New Special Username: savedata (only used in username setting menu)
+- Changed Pup tail length
+- Changed Pup size for start of project
