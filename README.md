@@ -7,6 +7,17 @@
 - Changed how Shop Items work.
 - Changed how Shop Items are optimized
 - Added Pet counter outside of the status Tab
+- Added [Username]’s pet Text in the “Pet zone” along with a username length check
+- Added Petter Objects
+- Added Petter Save Value
+- Added Petter Object Loading
+- Added Arrow to Alignment Buttons
+- Added 2 new Levels to Petter Shop Item
+- Added Petter Shop Item Level Save Value
+- Added Infinite Clones Back
+- Added Petter Shop Item Limit of 60 clicks
+  - Limit is removed if your username is lagman
+- Removed early button pen rendered text (it was hidden)
 
 # 8/30/2024
 
