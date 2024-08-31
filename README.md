@@ -1,3 +1,25 @@
+# 8/30/2024
+
+## pre-1.03
+- Changed Screen Width to 640
+- Changed Positions of UI Elements
+- Changed Pup Position
+- Changed Functionality of how Version is set
+- Changed Status Tab text to "Status"
+- Added Proper Backdrop
+- Added TextEngine Alignment "tag" for following the set alignment
+- Added Random Coloring to Backdrop
+- Added "white" skin for Pup
+- Added Loading Screen for Initalization
+- Added Loading Screen Text
+- Added Shop Tab
+- Added Petter Shop Item
+- Added TextEngine Block for returning Large money Values
+- Added Petter Shop Item
+- Fixed Bug where Auto-Save "Saved!" Clones could run code they shouldn't run and caused major lag
+- Fixed how Saving works
+- Removed Infinate Clones
+
 # 8/29/2024
 
 ## pre-1
@@ -24,25 +46,3 @@
 - Changed Pet Display to use TextEngine
 - Changed Version Display to use TextEngine
 - Changed Total Pets Display to use TextEngine
-
-# 8/30/2024
-
-## pre-1.03
-- Changed Screen Width to 640
-- Changed Positions of UI Elements
-- Changed Pup Position
-- Changed Functionality of how Version is set
-- Changed Status Tab text to "Status"
-- Added Proper Backdrop
-- Added TextEngine Alignment "tag" for following the set alignment
-- Added Random Coloring to Backdrop
-- Added "white" skin for Pup
-- Added Loading Screen for Initalization
-- Added Loading Screen Text
-- Added Shop Tab
-- Added Petter Shop Item
-- Added TextEngine Block for returning Large money Values
-- Added Petter Shop Item
-- Fixed Bug where Auto-Save "Saved!" Clones could run code they shouldn't run and caused major lag
-- Fixed how Saving works
-- Removed Infinate Clones
