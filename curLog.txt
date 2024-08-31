@@ -11,6 +11,7 @@ pre-1.05
 #start of gameplay (doubles as debug menu)
 #- Added New Special Username: savedata 
 #(only used in username setting menu)
+#- Added Changelog Menu
 #- Changed Pup tail length
 #- Changed Pup size for start of project
 #
