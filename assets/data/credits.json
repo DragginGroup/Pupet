@@ -23,7 +23,7 @@
     { "type":"person", "content":"IdealistCat", "job_display": "nojob" },
 
     { "type":"tab", "content": "Playtesters", "color": "lime" },
-    { "type":"person", "content":"Paul Leps", "job_display":e "nojob" }
+    { "type":"person", "content":"Paul Leps", "job_display": "nojob" }
     
   ]
 }
