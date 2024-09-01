@@ -3,7 +3,7 @@
 
   "content": [
 
-    { "type":"tab", "content": "Main Team", "color": "FFOOO" },
+    { "type":"tab", "content": "Main Team", "color": "red" },
     { "type":"person", "content": "IdealistCat", "job": "Director" },
     { "type":"person", "content":"Djotta Flow", "job": "Co-Director" },
     { "type":"person", "content":"Paul Leps", "job": "Playtester" },
@@ -12,18 +12,18 @@
     { "type":"person", "content":"IdealistCat", "job": "Lead Director" },
     { "type":"person", "content":"Djotta Flow", "job": "Co-Director" },
     
-    { "type":"tab", "content": "Artists and Animators" },
+    { "type":"tab", "content": "Artists and Animators" }
     { "type":"person", "content":"IdealistCat", "job_display": "nojob" },
     { "type":"person", "content":"Djotta Flow", "job_display": "nojob" },
 
-    { "type":"tab", "content": "Coders" },
+    { "type":"tab", "content": "Coders", "color":"blue"},
     { "type":"person", "content":"IdealistCat", "job_display": "nojob" },
     
-    { "type":"tab", "content": "Composers" },
+    { "type":"tab", "content": "Composers", "color": "purple"},
     { "type":"person", "content":"IdealistCat", "job_display": "nojob" },
 
     { "type":"tab", "content": "Playtesters", "color": "lime"},
-    { "type":"person", "content":"Paul Leps", "job_display": "nojob" }
+    { "type":"person", "content":"Paul Leps", "job_display":e "nojob" }
     
   ]
 }
