@@ -1,7 +1,7 @@
 9/8/2024
 #
 #
-1.00
+#1.00
 #- Changed how the game decides to 
 #register the development stuff in the 
 #changelog menu
@@ -18,4 +18,15 @@
 #reporter
 #- Added money value Custom reporter to 
 #the status Tab numbers
+#- Added Settings Menu
+#  - Added Music Setting
+#  - Added Volume Setting
+#- Added UPPERCASE letters to Text Engine
+#- Added Credits Menu (uses the github)
+#
+#- Fixed Usernames with the length of 5 
+#overlapping the non-pet zone
+#- Fixed Usernames with UPPERCASE 
+#characters not showing
+#- Fixed Treats Shop Item Never Upgrading
 #
