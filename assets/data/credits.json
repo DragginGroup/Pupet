@@ -1,21 +1,16 @@
 {
-  "data" : [
-    1.0 // Data - Scroll Speed (1.0 = 10 in the game)
-  ],
-  "content" : [
-  [
-    "tab", // Type
-    "Main Team" // Tab - Name
-  ],
-  [
-    "person",
-    "IdealistCat", // Person - Name
-    "Lead Director, Artist, Lead Programmer" // Person - Job(s)
-  ],
-  [
-    "person",
-    "Djotta Flow",
-    "Co Director, Lead Artist, Lead Animator"
-  ]
+  // Menu Data
+  "scroll_speed": 1.0,
+  
+  // Content
+  "content": [
+    {
+      "type":"tab",
+      "content": "Main Team"
+    },
+    {
+      "type":"person",
+      "content":"IdealistCat"
+    }
   ]
 }
