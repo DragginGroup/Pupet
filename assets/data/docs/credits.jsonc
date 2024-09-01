@@ -4,7 +4,7 @@
   * the syntax version. pretty fuckin
   * self explanatory
   */
-  "credits_syntax_version": "1.0.1",
+  "credits_syntax_version": "1.0.2",
 
   /**
   * other miscellaneous 
@@ -33,7 +33,22 @@
       * content [content]
       * this is the tab name basically.
       */
-      "content": "Main Team"
+      "content": "Main Team",
+
+      /**
+      * color: [color]
+      * this json key changes the 
+      * color of the text from 
+      * this moment onward.
+      *
+      * so it is very recommended
+      * to set it in the tab
+      *
+      * so far as I write this you can
+      * only write the color names
+      * until that is working.
+      */
+      "color": "red"
     },
     { 
       /**
