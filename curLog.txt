@@ -2,5 +2,20 @@
 #
 #
 1.00
+#- Changed how the game decides to 
+#register the development stuff in the 
+#changelog menu
+#- Changed when Pet skins are loaded
 #
+#- Added Search Parameter workings
+#  - Added Search Parameter to skip Splash #    screen
+#- Added new Pet Skin: Spot
+#- Added comas for number Values in the 
+#thousands using the money value Custom 
+#reporter
+#- Added trillions short number letter to 
+#numbers using the money value Custom 
+#reporter
+#- Added money value Custom reporter to 
+#the status Tab numbers
 #
