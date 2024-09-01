@@ -12,6 +12,13 @@ pre-1.05
 #- Added New Special Username: savedata 
 #(only used in username setting menu)
 #- Added Changelog Menu
+#- Added Split Letter to TextEngine Custom Block
+#- Added Upgrade Tab Shop
+#- Added Pet Click Amount
+#- Added Pet Click Amount Save Value
+#- Added x2 Upgrade
 #- Changed Pup tail length
 #- Changed Pup size for start of project
+#- Fixed 0 being the value of the Button 
+#cooldowns
 #
