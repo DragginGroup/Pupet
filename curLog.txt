@@ -1,38 +1,6 @@
-9/1/2024
+9/8/2024
 #
 #
-pre-1.05
+1.00
 #
-#- Added "[username] is loading" message 
-#to loading screen
-#- Added Custom tail for the "white" skin 
-#of the pup
-#- Added Username Setting Menu at the 
-#start of gameplay (doubles as debug menu)
-#- Added New Special Username: savedata 
-#(only used in username setting menu)
-#- Added Changelog Menu
-#- Added Split Letter to TextEngine Custom 
-#Block
-#- Added Upgrade Tab Shop
-#- Added Pet Click Amount
-#- Added Pet Click Amount Save Value
-#- Added x2 Upgrade
-#- Changed Pup tail length
-#- Added Short Number to Pets amount
-#- Added Background Music Track
-#- Added quick little splash screen
-#- Added Developer Variable to control 
-#development only features
-#- Added "Treat" Shop Item
-#- Added Treats every 2 seconds script
-#- Added Treat Shop Item Save Value
-#- Changed Pup tail length
-#- Changed Pup size for start of project
-#- Changed how reseting your save works: 
-#doesn't reset username
-#- Fixed 0 being the value of the Button 
-#cooldowns
-#- Fixed Bug where you could have a blank 
-#username
 #
