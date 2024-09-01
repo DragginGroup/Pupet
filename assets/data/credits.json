@@ -3,7 +3,7 @@
 
   "content": [
 
-    { "type":"tab", "content": "Main Team", "color": "red" },
+    { "type":"tab", "content": "Main Team", "color": "FFOOO" },
     { "type":"person", "content": "IdealistCat", "job": "Director" },
     { "type":"person", "content":"Djotta Flow", "job": "Co-Director" },
     { "type":"person", "content":"Paul Leps", "job": "Playtester" },
