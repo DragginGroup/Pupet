@@ -1,0 +1,20 @@
+{
+  [
+    "data", // Type
+    1.0 // Data - Scroll Speed (1.0 = 10 in the game)
+  ],
+  [
+    "tab",
+    "Main Team" // Tab - Name
+  ],
+  [
+    "person",
+    "IdealistCat", // Person - Name
+    "Lead Director, Artist, Lead Programmer" // Person - Job(s)
+  ],
+  [
+    "person",
+    "Djotta Flow",
+    "Co Director, Lead Artist, Lead Animator"
+  ]
+}
