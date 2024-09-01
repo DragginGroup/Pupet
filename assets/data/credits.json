@@ -1,10 +1,10 @@
 {
-  [
-    "data", // Type
+  "data" : [
     1.0 // Data - Scroll Speed (1.0 = 10 in the game)
   ],
+  "content" : [
   [
-    "tab",
+    "tab", // Type
     "Main Team" // Tab - Name
   ],
   [
@@ -16,5 +16,6 @@
     "person",
     "Djotta Flow",
     "Co Director, Lead Artist, Lead Animator"
+  ]
   ]
 }
