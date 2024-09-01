@@ -12,7 +12,7 @@
     { "type":"person", "content":"IdealistCat", "job": "Lead Director" },
     { "type":"person", "content":"Djotta Flow", "job": "Co-Director" },
     
-    { "type":"tab", "content": "Artists and Animators", "color": "cyan" }
+    { "type":"tab", "content": "Artists and Animators", "color": "cyan" },
     { "type":"person", "content":"IdealistCat", "job_display": "nojob" },
     { "type":"person", "content":"Djotta Flow", "job_display": "nojob" },
 
