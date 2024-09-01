@@ -1,13 +1,25 @@
 {
-  "scroll_speed": 1.0,
+  "credits_syntax_version": "1.0.1",
+
   "content": [
-    {
-      "type":"tab",
-      "content": "Main Team"
-    },
-    {
-      "type":"person",
-      "content":"IdealistCat"
-    }
+
+    { "type":"tab", "content": "Main Team" },
+    { "type":"person", "content": "IdealistCat", "job": "Director" },
+    { "type":"person", "content":"Djotta Flow", "job": "Co-Director" },
+
+    { "type":"tab", "content": "Directors" },
+    { "type":"person", "content":"IdealistCat", "job": "Lead Director" },
+    { "type":"person", "content":"Djotta", "job": "Co-Director" },
+    
+    { "type":"tab", "content": "Artists and Animators" },
+    { "type":"person", "content":"IdealistCat", "job_display": "nojob" },
+    { "type":"person", "content":"Djotta", "job_display": "nojob" },
+
+    { "type":"tab", "content": "Coders" },
+    { "type":"person", "content":"IdealistCat", "job_display": "nojob" },
+    
+    { "type":"tab", "content": "Composers" },
+    { "type":"person", "content":"IdealistCat", "job_display": "nojob" }
+    
   ]
 }
