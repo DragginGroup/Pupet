@@ -1,8 +1,5 @@
 {
-  // Menu Data
   "scroll_speed": 1.0,
-  
-  // Content
   "content": [
     {
       "type":"tab",
