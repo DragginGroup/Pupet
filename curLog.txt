@@ -32,4 +32,9 @@
 #- Fixed Treats Shop Item Never Upgrading
 #- Fixed Treats every 2 second text in 
 #username setting menu
+#- Fixed Loading speeds of data grabbed 
+#from the github (changelog, Credits JSON, 
+#and anything else)
+#- Fixed Changelog Text being darker if 
+#you enter the changelog menu early
 #
