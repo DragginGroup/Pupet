@@ -1,9 +1,9 @@
 {
   "credits_syntax_version": "1.0.3",
 
-  "short-cut": [
+  "short-cuts": [
     { "identifier":"idealist", "content":"Ideal"}
-  ]
+  ],
 
   "content": [
 
