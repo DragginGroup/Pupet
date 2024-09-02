@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "name":"spanish",
+    "author":"IdealistCat",
+
+    "costume_suffix":"_sp",
+
+    "file_version":"0.1.0.2",
+    "api_version":"0.1.0"
+  },
+
+  "translation": { 
+    "latest_com_name":"nombre del ultimo commit:",
+    "latest_com":"ultimo commit de Github:",
+    "pup_ver":"version marioneta",
+    "user":"nombre de usuario:",
+    "pets":"mascotas:",
+    "total_pets":"total de mascotas:",
+    "pets_click":"mascotas por clic:",
+    "auto_pets":"mascotas automaticas/por segundo:",
+    "petters_btn_lv":"nivel del boton de Petters:",
+    "petter":"mascotas:",
+    "treat2s":"trata cada 2 segundos:",
+    "pup_load":"cargando marioneta",
+    "isload":"se esta cargando",
+    "splash_text":[
+      "juego de cachorros",
+      "clicker de cachorros",
+      "cachorro cachorro",
+      "frenesí de clicker",
+      "frenesí de mascotas",
+      "acaricia al perro",
+      "hecho con mascotas",
+      "cachorro freeman",
+      "JAY SON",
+      "JSON", 
+      "boonpets"
+    ]
+  }
+}

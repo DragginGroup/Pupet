@@ -1,3 +1,33 @@
+# 9/2/2024
+
+## pre-1.10
+- Changed how the game decides to register the development stuff in the changelog menu
+- Changed when Pet skins are loaded
+- Changed when the loading begins
+
+- Added Search Parameter workings
+  - Added Search Parameter to skip Splash screen
+- Added comas for number Values in the thousands using the money value Custom reporter
+- Added trillions short number letter to numbers using the money value Custom reporter
+- Added money value Custom reporter to the status Tab numbers
+- Added Settings Menu
+  - Added Music Setting
+  - Added Volume Setting
+  - Added Language Setting
+- Added UPPERCASE letters to Text Engine
+- Added Credits Menu (uses the github)
+- Added JSON Save loading and saving
+- Added Spanish translation
+
+- Fixed Usernames with the length of 5 overlapping the non-pet zone
+- Fixed Usernames with UPPERCASE characters not showing
+- Fixed Treats Shop Item Never Upgrading
+- Fixed Treats every 2 second text in username setting menu
+- Fixed Loading speeds of data grabbed from the github (changelog, Credits JSON, and anything else)
+- Fixed Changelog Text being darker if you enter the changelog menu early
+- Fixed Text Engine Word Wrapping
+- Fixed Loading Speeds?
+
 # 9/1/2024
 
 ## pre-1.05

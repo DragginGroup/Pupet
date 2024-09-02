@@ -1,0 +1,35 @@
+{
+  "credits_syntax_version": "1.0.4",
+
+  "short-cuts": [
+    { "identifier":"idealist", "content": "IdealistCat", "type":"person" },
+    { "identifier":"djottaflow", "content":"Djotta Flow", "type":"person" },
+    { "identifier":"paulleps", "content":"Paul Leps", "type":"person" }
+  ],
+
+  "content": [
+
+    { "type":"tab", "content": "Main Team", "color": "red" },
+    { "job": "Director", "shortcut": "idealist" },
+    { "job": "Co-Director", "shortcut": "djottaflow" },
+    { "job": "Playtester", "shortcut": "paulleps" },
+
+    { "type":"tab", "content": "Directors", "color":"yellow" },
+    { "job": "Lead Director",  "shortcut": "idealist" },
+    { "job": "Co-Director", "shortcut": "djottaflow" },
+    
+    { "type":"tab", "content": "Artists and Animators", "color": "cyan" },
+    { "job_display": "nojob",  "shortcut": "idealist" },
+    { "job_display": "nojob", "shortcut": "djottaflow" },
+
+    { "type":"tab", "content": "Coders", "color":"blue" },
+    { "job_display": "nojob",  "shortcut": "idealist" },
+    
+    { "type":"tab", "content": "Composers", "color": "purple" },
+    { "job_display": "nojob",  "shortcut": "idealist" },
+
+    { "type":"tab", "content": "Playtesters", "color": "lime" },
+    { "job_display": "nojob", "shortcut": "paulleps" }
+    
+  ]
+}

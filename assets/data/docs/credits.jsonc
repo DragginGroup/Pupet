@@ -1,0 +1,126 @@
+{
+  /**
+  * credits_syntax_version is just
+  * the syntax version. pretty fuckin
+  * self explanatory
+  */
+  "credits_syntax_version": "1.0.4",
+
+  /**
+  * short-cuts: []
+  * basically variables,
+  * this array contains a bunch of
+  * short cuts to be used in the content.
+  *
+  * duh.
+  */
+  "short-cuts": [
+    {
+      /**
+      * The identifier is what is 
+      * searched for by the game
+      * to get the right short cut
+      */
+      "identifier":"idealist",
+
+      // everything else is documented
+      // below
+      "content":"Ideal"
+    }
+  ],
+
+  /**
+  * other miscellaneous 
+  * variables will be here
+  * and maybe some nice 
+  */
+  
+  "content": [
+    /**
+    * content: []
+    * this is the baloney
+    * of our baloney sandwich
+    *
+    * we got the tabs/headers
+    * and the people and their jobs!!
+    */
+    
+    { 
+      /**
+      * type: tab
+      * this tells the game to make
+      * big text and to not have a job.
+      */
+      "type":"tab",
+      /**
+      * content [content]
+      * this is the tab name basically.
+      */
+      "content": "Main Team",
+
+      /**
+      * color: [color]
+      * this json key changes the 
+      * color of the text from 
+      * this moment onward.
+      *
+      * so it is very recommended
+      * to set it in the tab
+      *
+      * so far as I write this you can
+      * only write the color names
+      * until that is working.
+      */
+      "color": "red"
+    },
+    { 
+      /**
+      * type: person
+      * the person type just tells the game
+      * to render the text as 
+      * [content] - [job]
+      * depending on other variables in the
+      * object
+      */
+      "type":"person", 
+      /**
+      * content: [content]
+      * here in the person type this
+      * json line will tell the game
+      * who the person IS.
+      */
+      "content": "IdealistCat", 
+      /**
+      * job: [job]
+      * this json line
+      * is what comes after the person name
+      */
+      "job": "Director",
+  
+      /**
+      * job_display : nojob
+      * this json line explains that
+      * the text will not display the job
+      * and it removes the - from the name
+      * as long as it says nojob.
+      */
+      "job_display": "nojob",
+
+      /**
+      * modifier: [mod]
+      * this just modifies the text
+      * current modifier(s)
+      *
+      * censored - guess what it dies
+      */
+      "modifier":"censored",
+
+      /**
+      * shortcut: [short_cut]
+      * this just tells the game to link
+      * to a shortcut.
+      */
+      "shortcut": "idealist"
+    }
+  ]
+}
