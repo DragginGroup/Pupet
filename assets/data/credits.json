@@ -1,10 +1,10 @@
 {
-  "credits_syntax_version": "1.0.3",
+  "credits_syntax_version": "1.0.4",
 
   "short-cuts": [
     { "identifier":"idealist", "content": "IdealistCat", "type":"person" },
-    { "identifier":"djottaflow", "content":"Djotta Flow", "type":"person" },
-    { "identifier":"paulleps", "content":"Paul Leps", "type":"person" }
+    { "identifier":"djottaflow", "content":"Djotta Flow", "type":"person", "modifier":"censored" },
+    { "identifier":"paulleps", "content":"Paul Leps", "type":"person", "modifier":"censored" }
   ],
 
   "content": [
