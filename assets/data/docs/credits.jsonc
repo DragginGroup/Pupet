@@ -8,13 +8,25 @@
 
   /**
   * short-cuts: []
+  * basically variables,
   * this array contains a bunch of
   * short cuts to be used in the content.
   *
   * duh.
   */
   "short-cuts": [
-    { "identifier":"idealist", "content":"Ideal"}
+    {
+      /**
+      * The identifier is what is 
+      * searched for by the game
+      * to get the right short cut
+      */
+      "identifier":"idealist",
+
+      // everything else is documented
+      // below
+      "content":"Ideal"
+    }
   ],
 
   /**
