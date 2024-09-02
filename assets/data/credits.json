@@ -2,32 +2,34 @@
   "credits_syntax_version": "1.0.3",
 
   "short-cuts": [
-    { "identifier":"idealist", "content":"Ideal"}
+    { "identifier":"idealist", "content": "IdealistCat", "type":"person" },
+    { "identifier":"djottaflow", "content":"Djotta Flow", "type":"person" },
+    { "identifier":"paulleps", "content":"Paul Leps", "type":"person" }
   ],
 
   "content": [
 
     { "type":"tab", "content": "Main Team", "color": "red" },
-    { "type":"person", "content": "IdealistCat", "job": "Director", "shortcut": "idealist"},
-    { "type":"person", "content":"Djotta Flow", "job": "Co-Director" },
-    { "type":"person", "content":"Paul Leps", "job": "Playtester" },
+    { "job": "Director", "shortcut": "idealist" },
+    { "job": "Co-Director", "shortcut": "djottaflow" },
+    { "job": "Playtester", "shortcut": "paulleps" },
 
     { "type":"tab", "content": "Directors", "color":"yellow" },
-    { "type":"person", "content":"IdealistCat", "job": "Lead Director" },
-    { "type":"person", "content":"Djotta Flow", "job": "Co-Director" },
+    { "job": "Lead Director",  "shortcut": "idealist" },
+    { "job": "Co-Director", "shortcut": "djottaflow" },
     
     { "type":"tab", "content": "Artists and Animators", "color": "cyan" },
-    { "type":"person", "content":"IdealistCat", "job_display": "nojob" },
-    { "type":"person", "content":"Djotta Flow", "job_display": "nojob" },
+    { "job_display": "nojob",  "shortcut": "idealist" },
+    { "job_display": "nojob", "shortcut": "djottaflow" },
 
     { "type":"tab", "content": "Coders", "color":"blue" },
-    { "type":"person", "content":"IdealistCat", "job_display": "nojob" },
+    { "job_display": "nojob",  "shortcut": "idealist" },
     
     { "type":"tab", "content": "Composers", "color": "purple" },
-    { "type":"person", "content":"IdealistCat", "job_display": "nojob" },
+    { "job_display": "nojob",  "shortcut": "idealist" },
 
     { "type":"tab", "content": "Playtesters", "color": "lime" },
-    { "type":"person", "content":"Paul Leps", "job_display": "nojob" }
+    { "job_display": "nojob", "shortcut": "paulleps" }
     
   ]
 }
