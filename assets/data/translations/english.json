@@ -2,10 +2,12 @@
   "metadata": {
     "name":"english",
     "author":"IdealistCat",
-    "version":"0.1.0",
-    "fallback":"game"
-  },
 
+    "file_version":"0.1.2",
+    "api_version":"1.0.0",
+    
+    "fallback":"default"
+  },
 
   "translation": { 
     "latest_com_name":"latest commit name:",
@@ -21,6 +23,5 @@
     "treat2s":"treats every 2 seconds:",
     "pup_load":"pupet loading",
     "isload":"is loading"
-
   }
 }
