@@ -6,7 +6,7 @@
     "file_version":"0.1.2.1",
     "api_version":"1.0.0",
     
-    "fallback":"default"
+    "fallback":""
   },
 
   "translation": { 
