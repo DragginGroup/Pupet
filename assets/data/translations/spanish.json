@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "name":"spanish",
+    "author":"IdealistCat",
+
+    "file_version":"0.1.0",
+    "api_version":"1.0.0",
+    
+    "fallback":"english"
+  },
+
+  "translation": { 
+    "latest_com_name":"nombre del ultimo commit:",
+    "latest_com":"ultimo commit de Github:",
+    "pup_ver":"version marioneta",
+    "user":"nombre de usuario:",
+    "pets":"mascotas",
+    "total_pets":"total de mascotas:",
+    "pets_click":"mascotas por clic:",
+    "auto_pets":"mascotas automaticas por segundo:",
+    "petters_btn_lv":"nivel del boton de Petters:",
+    "petter":"mascotas:",
+    "treat2s":"trata cada 2 segundos:",
+    "pup_load":"cargando marioneta",
+    "isload":"se esta cargando"
+  }
+}
