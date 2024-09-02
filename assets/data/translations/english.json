@@ -3,7 +3,7 @@
     "name":"english",
     "author":"IdealistCat",
 
-    "file_version":"0.1.2",
+    "file_version":"0.1.2.1",
     "api_version":"1.0.0",
     
     "fallback":"default"
@@ -19,7 +19,7 @@
     "pets_click":"pets per click:",
     "auto_pets":"auto pets per second:",
     "petters_btn_lv":"petters button level:",
-    "petter":"peters:",
+    "petter":"petters:",
     "treat2s":"treats every 2 seconds:",
     "pup_load":"pupet loading",
     "isload":"is loading"
