@@ -1,10 +1,14 @@
 {
-  "credits_syntax_version": "1.0.2",
+  "credits_syntax_version": "1.0.3",
+
+  "short-cut": [
+    { "identifier":"idealist", "content":"Ideal"}
+  ]
 
   "content": [
 
     { "type":"tab", "content": "Main Team", "color": "red" },
-    { "type":"person", "content": "IdealistCat", "job": "Director" },
+    { "type":"person", "content": "IdealistCat", "job": "Director" "shortcut": "idealist"},
     { "type":"person", "content":"Djotta Flow", "job": "Co-Director" },
     { "type":"person", "content":"Paul Leps", "job": "Playtester" },
 
