@@ -23,10 +23,13 @@
 #  - Added Volume Setting
 #- Added UPPERCASE letters to Text Engine
 #- Added Credits Menu (uses the github)
+#- Added JSON Save loading and saving
 #
 #- Fixed Usernames with the length of 5 
 #overlapping the non-pet zone
 #- Fixed Usernames with UPPERCASE 
 #characters not showing
 #- Fixed Treats Shop Item Never Upgrading
+#- Fixed Treats every 2 second text in 
+#username setting menu
 #
