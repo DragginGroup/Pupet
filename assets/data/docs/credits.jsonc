@@ -4,7 +4,18 @@
   * the syntax version. pretty fuckin
   * self explanatory
   */
-  "credits_syntax_version": "1.0.2",
+  "credits_syntax_version": "1.0.3",
+
+  /**
+  * short-cuts: []
+  * this array contains a bunch of
+  * short cuts to be used in the content.
+  *
+  * duh.
+  */
+  "short-cuts": [
+    { "identifier":"idealist", "content":"Ideal"}
+  ],
 
   /**
   * other miscellaneous 
@@ -75,13 +86,20 @@
       "job": "Director",
   
       /**
-      * job_display : nojob or smth else
+      * job_display : nojob
       * this json line explains that
       * the text will not display the job
       * and it removes the - from the name
       * as long as it says nojob.
       */
-      "job_display": "nojob"
+      "job_display": "nojob",
+
+      /**
+      * shortcut: [short_cut]
+      * this just tells the game to link
+      * to a shortcut.
+      */
+      "shortcut": "idealist"
     },
   ]
 }
