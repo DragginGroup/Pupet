@@ -8,7 +8,7 @@
   "content": [
 
     { "type":"tab", "content": "Main Team", "color": "red" },
-    { "type":"person", "content": "IdealistCat", "job": "Director" "shortcut": "idealist"},
+    { "type":"person", "content": "IdealistCat", "job": "Director", "shortcut": "idealist"},
     { "type":"person", "content":"Djotta Flow", "job": "Co-Director" },
     { "type":"person", "content":"Paul Leps", "job": "Playtester" },
 
