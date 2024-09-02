@@ -4,7 +4,7 @@
   * the syntax version. pretty fuckin
   * self explanatory
   */
-  "credits_syntax_version": "1.0.3",
+  "credits_syntax_version": "1.0.4",
 
   /**
   * short-cuts: []
@@ -105,6 +105,15 @@
       * as long as it says nojob.
       */
       "job_display": "nojob",
+
+      /**
+      * modifier: [mod]
+      * this just modifies the text
+      * current modifier(s)
+      *
+      * censored - guess what it dies
+      */
+      "modifier":"censored",
 
       /**
       * shortcut: [short_cut]
