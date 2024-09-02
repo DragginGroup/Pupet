@@ -1,4 +1,23 @@
 {
-  "stage_name":"stage",
-  "props": []
+  "stage_name": "stage",
+  "props": [
+    {
+      "identifier": "pup",
+      "position": [0, 0],
+      "direction": 90,
+      "z-index": 1,
+      "rotation_type": 0,
+      "alpha": 100,
+      "size": 50
+    },
+    {
+      "identifier": "arrow",
+      "position": [50, 0],
+      "direction": 45,
+      "z-index": 4,
+      "rotation_type": 2,
+      "alpha": 25,
+      "size": 240
+    }
+  ]
 }
