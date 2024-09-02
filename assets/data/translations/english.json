@@ -3,9 +3,24 @@
     "name":"english",
     "author":"IdealistCat",
     "version":"0.1.0",
-    "fallback":"english"
+    "fallback":"game"
   },
+
+
   "translation": { 
-    
+    "latest_com_name":"latest commit name:",
+    "latest_com":"latest github commit:",
+    "pup_ver":"pupet version",
+    "user":"username:",
+    "pets":"pets",
+    "total_pets":"total pets:",
+    "pets_click":"pets per click:",
+    "auto_pets":"auto pets per second:",
+    "petters_btn_lv":"petters button level:",
+    "petter":"peters:",
+    "treat2s":"treats every 2 seconds:",
+    "pup_load":"pupet loading",
+    "isload":"is loading"
+
   }
 }
