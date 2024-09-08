@@ -1,3 +1,14 @@
+# 9/8/2024
+
+## pre-1.11
+- Fixed [Status Text Merging when the alignment is down](https://github.com/DragginGroup/Pupet/issues/7)
+- Fixed Usernames with the length of 7 being cut off
+- Fixed Autosave causing the game to ask for you to load your save
+- Fixed [Petters not being loaded from your save](https://github.com/DragginGroup/Pupet/issues/6)
+- Fixed [Incorrect Changelog](https://github.com/DragginGroup/Pupet/issues/5)
+- Fixed [Missing Credits](https://github.com/DragginGroup/Pupet/issues/4)
+
+- Removed Latest Commit Github Info
 # 9/2/2024
 
 ## pre-1.10
