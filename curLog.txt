@@ -1,15 +1,22 @@
-# 9/8/2024
+#9/11/2024
 #
-#pre-1.11
-#- Fixed Status Text Merging when the 
-#alignment is down
-#- Fixed Usernames with the length of 7 
-#being cut off
-#- Fixed Autosave causing the game to ask 
-#for you to load your save
-#- Fixed Petters not being loaded from 
-#your save
-#- Fixed Incorrect Changelog
-#- Fixed Missing Credits
+#pre-1.12
+#- Fixed Missing Credits for Dev Fork
+#- Fixed Lower-Row Buttons Moving up after 
+#clicking them in Username Set Menu
+#- Fixed Clone Issues caused by the Back 
+#Button
+#- Fixed how Loading Settings works
 #
-#- Removed Latest Commit Github Info
+#- Added new Pet skin: Spot
+#- Added new Pet skin: Bud
+#- Added Back button to Gameplay
+#- Added code to replace Saves with the 
+#spanish setting to english
+#
+#- Changed Default Settings: Music enabled 
+#by default
+#- Changed Position of Status Text
+#
+#- Removed Spanish Translation (temporary)
+#- Removed Username Status Text
