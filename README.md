@@ -1,3 +1,22 @@
+# 9/11/2024
+
+## pre-1.12
+- Fixed Missing Credits for Dev Fork
+- Fixed Lower-Row Buttons Moving up after clicking them in Username Set Menu
+- Fixed Clone Issues caused by the Back Button
+- Fixed how Loading Settings works
+
+- Added new Pet skin: Spot
+- Added new Pet skin: Bud
+- Added Back button to Gameplay
+- Added code to replace Saves with the spanish setting to english
+
+- Changed Default Settings: Music enabled by default
+- Changed Position of Status Text
+
+- Removed Spanish Translation (temporary)
+- Removed Username Status Text
+
 # 9/8/2024
 
 ## pre-1.11
