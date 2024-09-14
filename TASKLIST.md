@@ -5,4 +5,5 @@
   - [ ] More Upgrades
     - [ ] Treat Type: Pupio (random brand name)
   - [ ] More Animations
-  - [ ] Custom Modding Language
+  - [ ] Modding Support
+    - [ ] v1
