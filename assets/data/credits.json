@@ -4,7 +4,8 @@
   "short-cuts": [
     { "identifier":"idealist", "content": "IdealistCat", "type":"person" },
     { "identifier":"djottaflow", "content":"Djotta Flow", "type":"person" },
-    { "identifier":"paulleps", "content":"Paul Leps", "type":"person" }
+    { "identifier":"paulleps", "content":"Paul Leps", "type":"person" },
+    { "identifier":"drago", "content":"Drago Cuven", "type":"person" }
   ],
 
   "content": [
@@ -13,6 +14,7 @@
     { "job": "Director", "shortcut": "idealist" },
     { "job": "Co-Director", "shortcut": "djottaflow" },
     { "job": "Playtester", "shortcut": "paulleps" },
+    { "job": "Co-Programmer", "shortcut": "drago" },
 
     { "type":"tab", "content": "Directors", "color":"yellow" },
     { "job": "Lead Director",  "shortcut": "idealist" },
@@ -22,8 +24,9 @@
     { "job_display": "nojob",  "shortcut": "idealist" },
     { "job_display": "nojob", "shortcut": "djottaflow" },
 
-    { "type":"tab", "content": "Coders", "color":"blue" },
-    { "job_display": "nojob",  "shortcut": "idealist" },
+    { "type":"tab", "content": "Programmers", "color":"blue" },
+    { "job": "Lead Programming",  "shortcut": "idealist" },
+    { "job": "Assistant Programmer",  "shortcut": "drago" },
     
     { "type":"tab", "content": "Composers", "color": "purple" },
     { "job_display": "nojob",  "shortcut": "idealist" },
