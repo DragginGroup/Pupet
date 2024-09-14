@@ -1,7 +1,8 @@
 - [ ] Development Stuff
-  - [ ] In-game Terminal
+  - [x] In-game Terminal
 - [ ] Game Stuff
   - [ ] Pup Phases
   - [ ] More Upgrades
     - [ ] Treat Type: Pupio (random brand name)
   - [ ] More Animations
+  - [ ] Custom Modding Language
