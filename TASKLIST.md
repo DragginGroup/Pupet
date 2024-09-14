@@ -4,4 +4,4 @@
   - [ ] Pup Phases
   - [ ] More Upgrades
     - [ ] Treat Type: Pupio (random brand name)
-  - [ ] More Aninations
+  - [ ] More Animations
