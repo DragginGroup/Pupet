@@ -4,8 +4,9 @@
     "author":"IdealistCat",
 
     "costume_suffix":"_sp",
+    "costume_prefix":"sp_"
 
-    "file_version":"0.1.0.2",
+    "file_version":"0.1.1",
     "api_version":"0.1.0"
   },
 
@@ -23,6 +24,7 @@
     "treat2s":"trata cada 2 segundos:",
     "pup_load":"cargando marioneta",
     "isload":"se esta cargando",
+    "pet":"mascota",
     "splash_text":[
       "juego de cachorros",
       "clicker de cachorros",
@@ -34,7 +36,27 @@
       "cachorro freeman",
       "JAY SON",
       "JSON", 
-      "boonpets"
+      "boonpets",
+      "compatible con funkin",
+      "compatible con geometría", 
+      "compatible con nuevos terrenos",
+      "compatible con programación DRY",
+      "para los amigos y compañeros",
+      "brotes y bluds",
+      "pulgada a pulgada",
+      "día a día",
+      "desconcertando tu realidad",
+      "semana a semana",
+      "sin control",
+      "apuesta tus miles",
+      "no arrastres tu reputación por innumerables lodos",
+      "compatible con cuadro por cuadro",
+      "compatible con animaciones de atlas de sprites",
+      "compatible con sobrecarga JSON",
+      "no admite archivos de scripting personalizados (por ahora)",
+      "erect samplin",
+      "compatible con desarrolladores de Unity",
+      "no admite equipos de Unity"
     ]
   }
 }
