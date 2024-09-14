@@ -4,9 +4,9 @@
     "author":"IdealistCat",
 
     "costume_suffix":"_sp",
-    "costume_prefix":"sp_"
+    "costume_prefix":"sp_",
 
-    "file_version":"0.1.1",
+    "file_version":"0.1.1.1",
     "api_version":"0.1.0"
   },
 
