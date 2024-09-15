@@ -1,5 +1,10 @@
 # Development Stuff
+
+## Quality of life
+
 - [x] In-game Terminal
+
+## Modding Related
 - [ ] ScriptCalls for every needed call
 
 # Game Stuff
