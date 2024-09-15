@@ -4,10 +4,12 @@
 
 # Game Stuff
 - [ ] Pup Phases
-- [ ] More Upgrades
-  - [ ] Treat Type: Pupio (random brand name)
-- [ ] More Animations
-  - [x] Puppy Selector Selected Animation
-  - [ ] Puppy Selector Transition Animation
-  - [ ] Main Menu **Puppy** Rank Done Loading Animation
+
+## More Upgrades
+- [ ] Treat Type: Pupio (random brand name)
+
+## More Animations
+- [x] Puppy Selector Selected Animation
+- [ ] Puppy Selector Transition Animation
+- [ ] Main Menu **Puppy** Rank Loaded Animation
 - [ ] Lua Modding Support (drago)
