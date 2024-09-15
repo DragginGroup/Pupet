@@ -7,7 +7,7 @@
 - [ ] More Upgrades
   - [ ] Treat Type: Pupio (random brand name)
 - [ ] More Animations
-  - [ ] Puppy Selector Selected Animation
+  - [x] Puppy Selector Selected Animation
   - [ ] Puppy Selector Transition Animation
-  - [ ] Main Menu Puppy Rank Done Loading Animation
+  - [ ] Main Menu **Puppy** Rank Done Loading Animation
 - [ ] Lua Modding Support (drago)
