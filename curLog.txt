@@ -1,22 +1,85 @@
-#9/11/2024
+#9/20/24
 #
-#pre-1.12
-#- Fixed Missing Credits for Dev Fork
-#- Fixed Lower-Row Buttons Moving up after 
-#clicking them in Username Set Menu
-#- Fixed Clone Issues caused by the Back 
-#Button
-#- Fixed how Loading Settings works
+#1.0
+#- Added 20 more random splash texts
+#- Added JSON Save File Length Check to 
+#make sure you can't just load a random 
+#JSON and corrupt shit
+#- Added Pup skin Buffs and Debuffs 
+#(Affects any and all automatic counters)
+#- Added Final Translations
+#- ADDED RANK DISPLAY TO MAIN MENU 
+#(Username Set Menu)
+#- ADDED 7 NEW RANKS
+#  - Added Atrocious Rank
+#  - Added Awful Rank
+#  - Added Bad Rank
+#  - Added Good Rank
+#  - Added Excellent Rank
+#  - Added Perfect Rank
+#  - Added Complete Rank
+#- Added OFFICIAL PUPET ANIMATED RIG SYSTEM
+#  - Added Animation Rig for Rank intro 
+#(arrive on the Main Menu)
+#- Added Custom Terminal for the Game
+#- Added Debugger Console Extension 
+#(recommended by drago_cuven)
+#- Added New Background Track for when you 
+#have an Excellent Rank or higher (Song 
+#Swaps every Track Update : Settings 
+#Refresh, Song ends, etc)
+#- Added Music Sprite (guess what it is 
+#for)
+#- Added PUPPY SELECTOR
+#  - Added new Background Track for this 
+#Menu
+#- Added ScriptCall Broadcasts
+#- Added VERY MINIMAL "Shader" Support 
+#(effefts only certain things until a more 
+#optimized method of application is found)
+#- ADDED 2 NEW PUP SKINS
+#  - Added the "Bull" Pup Skin
+#    - Unlocked when you have 2,000 Pets 
+#or more
+#  - Added the "Cap" Pup Skin
+#    - Unlocked when you have 50,000 Pets 
+#or more
+#- Added "?" Buttons to MainMenu (outline 
+#for future buttons)
+#- Added little Container Sprite to 
+#MainMenu
 #
-#- Added new Pet skin: Spot
-#- Added new Pet skin: Bud
-#- Added Back button to Gameplay
-#- Added code to replace Saves with the 
-#spanish setting to english
+#- Fixed Bug where the Shop Button click 
+#amount didn't reset
+#- Fixed Treats Shop Item Costumes
+#- Fixed Button some Shop Button code 
+#whenever it is maxed out
+#- Fixed Username Wrapping in Spanish 
+#Translation
+#- Fixed Buttons being click able even 
+#when they are maxed out
+#- Fixed suble Shadow of splash text on 
+#Main Menu
+#- Fixed Missing Brightness Fade 
+#Application to Savedata Username Text
+#- Fixed Double Click button not working. 
+#FINALLY.
+#- Fixed Bug where autosave display 
+#wouldn't work properly
+#- Fixed Bug where Petters wouldn't load 
+#if you left and came back to gameplay
 #
-#- Changed Default Settings: Music enabled 
-#by default
-#- Changed Position of Status Text
+#- Changed how Upgrading a Shop Item works
+#- Changed how the Pup loads Pup Skins
+#- Changed Positions of the MainMenu Button
+#- Changed Position of Volume Option in 
+#settings
 #
-#- Removed Spanish Translation (temporary)
-#- Removed Username Status Text
+- Removed Spanish Setting Replace
+#- Removed ability to exceed Treat Bonus 
+#Button Level Limit with the "lagman" 
+#username
+#- Removed JSON Autosaving (got annoying)
+#- Removed Fade from MainMenu to Gameplay
+#- Removed Loading Text from Public 
+#Display (aka visible only in dev mode)
