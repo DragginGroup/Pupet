@@ -75,7 +75,7 @@
 #- Changed Position of Volume Option in 
 #settings
 #
-- Removed Spanish Setting Replace
+#- Removed Spanish Setting Replace
 #- Removed ability to exceed Treat Bonus 
 #Button Level Limit with the "lagman" 
 #username
@@ -83,3 +83,4 @@
 #- Removed Fade from MainMenu to Gameplay
 #- Removed Loading Text from Public 
 #Display (aka visible only in dev mode)
+#
