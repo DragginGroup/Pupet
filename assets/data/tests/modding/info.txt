@@ -1,0 +1,3 @@
+the idealist folder is IdealistCat's take
+on modding, not the Lua way Drago wants
+to do it
