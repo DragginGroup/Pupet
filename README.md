@@ -1,5 +1,15 @@
 # 9/20/24
 
+## 1.0.1
+- Fixed Overlaping Music Tracks
+- Fixed Shop Buttons not Abiding its click and level limitations
+- Fixed Pup Selector not leaving if you didn't have certain conditions checked
+
+- Changed Speed of Credits scroll (slightly)
+- Changed Scroll amount for mobile control buttons
+
+- Added Main Menu Pup (uses OPARS)
+
 ## 1.0
 - Added 20 more random splash texts
 - Added JSON Save File Length Check to make sure you can't just load a random JSO  and corrupt shit
