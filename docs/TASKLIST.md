@@ -10,8 +10,6 @@
 
 # Game Stuff
 
-- [ ] Pup Phases
-
 ## More Upgrades
 
 - [ ] Treat Type: Pupio (random brand name)

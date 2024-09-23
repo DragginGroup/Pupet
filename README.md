@@ -1,3 +1,23 @@
+# 9/22/2024
+
+## 1.0.2
+- Added Random Chance (10%) for Main Menu pupet to change animation
+- Added Unlocking Conditions for the other Pet skins
+  - White skin Unlocked with 200 Pets or more
+  - Spot skin Unlocked with 600 Pets or more
+  - Bud skin Unlocked with 2000 Pets or more
+- Added Costume to Gameplay Pup for when you unlock something
+- Added Setting for toggling less important graphical assets
+- Added Randomness to Splash
+
+- Changed Default Settings for newcomers (only brown Pup skin is there)
+- Changed Version format (Major.Minor.Path.Build)
+
+- Fixed Bug where the unlocked Pup skin icons would be removed immediately on the leaving of the Puppy selector
+- Fixed black Pup bug
+- Fixed Bug where game Pup would stay on the Main menu
+- Fixed JSON Save not being accurate to actual save
+
 # 9/20/24
 
 ## 1.0.1
