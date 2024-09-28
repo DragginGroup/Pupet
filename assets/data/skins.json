@@ -1,51 +1,37 @@
 {
-  "brown": [
-    {
-      "positiveOffset": 0,
-      "negativeOffset": 0,
-      "cosmetics": ["halloween", "sheriff"]
-    }
-  ],
-  "white": [
-    {
-      "positiveOffset": 0,
-      "negativeOffset": 2,
-      "cosmetics": ["halloween", "farmer"]
-    }
-  ],
-  "spot": [
-    {
-      "positiveOffset": 2,
-      "negativeOffset": 0,
-      "cosmetics": ["halloween", "white"]
-    }
-  ],
-  "bud": [
-    {
-      "positiveOffset": 2,
-      "negativeOffset": 5,
-      "cosmetics": ["halloween", "suit"]
-    }
-  ],
-  "cap": [
-    {
-      "positiveOffset": 4,
-      "negativeOffset": 0,
-      "cosmetics": ["halloween", "prince"]
-    }
-  ],
-  "bull": [
-    {
-      "positiveOffset": 0,
-      "negativeOffset": 6,
-      "cosmetics": []
-    }
-  ],
-  "septimo": [
-    {
-      "positiveOffset": 0,
-      "negativeOffset": 10,
-      "cosmetics": ["halloween", "queen"]
-    }
-  ]
+  "brown": {
+    "positiveOffset": 0,
+    "negativeOffset": 0,
+    "cosmetics": ["halloween", "sheriff"]
+  },
+  "white": {
+    "positiveOffset": 0,
+    "negativeOffset": 2,
+    "cosmetics": ["halloween", "farmer"]
+  },
+  "spot": {
+    "positiveOffset": 2,
+    "negativeOffset": 0,
+    "cosmetics": ["halloween", "white"]
+  },
+  "bud": {
+    "positiveOffset": 2,
+    "negativeOffset": 5,
+    "cosmetics": ["halloween", "suit"]
+  },
+  "cap": {
+    "positiveOffset": 4,
+    "negativeOffset": 0,
+    "cosmetics": ["halloween", "prince"]
+  },
+  "bull": {
+    "positiveOffset": 0,
+    "negativeOffset": 6,
+    "cosmetics": []
+  },
+  "septimo": {
+    "positiveOffset": 0,
+    "negativeOffset": 10,
+    "cosmetics": ["halloween", "queen"]
+  }
 }
