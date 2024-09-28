@@ -3,6 +3,8 @@
 ## Quality of life
 
 - [ ] Outsource (almost) Everything to JSON
+- [ ] Merge JSONS that CAN be Merged (ex. skins)
+- [ ] More documentation
 
 ## Modding Related
 
