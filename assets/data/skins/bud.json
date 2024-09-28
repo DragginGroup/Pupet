@@ -1,5 +1,7 @@
 {
   "positiveOffset":2,
   "negativeOffset":5,
-  "index":10
+  "cosmetics":[
+    "halloween"
+  ]
 }
