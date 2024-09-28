@@ -1,0 +1,7 @@
+{
+  "frames":[
+    { "costume": "ng1", "delay":0.1 },
+    { "costume": "ng2", "delay":0.1 }
+  ],
+  "api_verson": 1
+}
