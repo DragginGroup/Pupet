@@ -2,7 +2,7 @@
 
 ## Quality of life
 
-- [ ] Outsource (almost) Everything to JSON
+- [ ] Outsource (almost) Every in-game set variables to JSON files in the github
 - [ ] Merge JSONS that CAN be Merged (ex. skins)
 - [ ] More documentation
 
