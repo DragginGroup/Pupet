@@ -2,7 +2,7 @@
 
 ## Quality of life
 
-- [x] In-game Terminal
+- [ ] Outsource (almost) Everything to JSON
 
 ## Modding Related
 
@@ -16,7 +16,7 @@
 
 ## More Animations
 
-- [x] Puppy Selector Selected Animation
+- [ ] Puppy New cosmetic Animation
 - [ ] Puppy Selector Transition Animation
-- [ ] Main Menu **Puppy** Rank Loaded Animation
+- [ ] Main Menu Puppy Rank Loaded Animation
 - [ ] Lua Modding Support (drago)
