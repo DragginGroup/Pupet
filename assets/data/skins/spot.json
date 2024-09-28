@@ -1,7 +1,5 @@
 {
-  "positiveOffset":2,
-  "negativeOffset":0,
-  "cosmetics":[
-    "halloween"
-  ]
+  "positiveOffset": 2,
+  "negativeOffset": 0,
+  "cosmetics": ["halloween"]
 }
