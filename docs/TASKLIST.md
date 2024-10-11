@@ -2,7 +2,9 @@
 
 ## Quality of life
 
-- [x] In-game Terminal
+- [ ] Outsource (almost) Every in-game set variables to JSON files in the github
+- [ ] Merge JSONS that CAN be Merged (ex. skins)
+- [ ] More documentation
 
 ## Modding Related
 
@@ -16,7 +18,7 @@
 
 ## More Animations
 
-- [x] Puppy Selector Selected Animation
+- [ ] Puppy New cosmetic Animation
 - [ ] Puppy Selector Transition Animation
-- [ ] Main Menu **Puppy** Rank Loaded Animation
+- [ ] Main Menu Puppy Rank Loaded Animation
 - [ ] Lua Modding Support (drago)

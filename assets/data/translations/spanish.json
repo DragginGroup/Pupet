@@ -1,31 +1,28 @@
 {
   "metadata": {
-    "name":"spanish",
-    "author":"IdealistCat",
+    "name": "spanish",
+    "author": "IdealistCat",
 
-    "costume_suffix":"_sp",
-    "costume_prefix":"sp_",
-
-    "file_version":"0.1.1.1",
-    "api_version":"0.1.0"
+    "costume_suffix": "_sp",
+    "costume_prefix": "sp_"
   },
 
-  "translation": { 
-    "latest_com_name":"nombre del ultimo commit:",
-    "latest_com":"ultimo commit de Github:",
-    "pup_ver":"version marioneta",
-    "user":"nombre de usuario:",
-    "pets":"mascotas:",
-    "total_pets":"total de mascotas:",
-    "pets_click":"mascotas por clic:",
-    "auto_pets":"mascotas automaticas/por segundo:",
-    "petters_btn_lv":"nivel del boton de Petters:",
-    "petter":"mascotas:",
-    "treat2s":"trata cada 2 segundos:",
-    "pup_load":"cargando marioneta",
-    "isload":"se esta cargando",
-    "pet":"mascota",
-    "splash_text":[
+  "translation": {
+    "latest_com_name": "nombre del ultimo commit:",
+    "latest_com": "ultimo commit de Github:",
+    "pup_ver": "version marioneta",
+    "user": "nombre de usuario:",
+    "pets": "mascotas:",
+    "total_pets": "total de mascotas:",
+    "pets_click": "mascotas por clic:",
+    "auto_pets": "mascotas automaticas/por segundo:",
+    "petters_btn_lv": "nivel del boton de Petters:",
+    "petter": "mascotas:",
+    "treat2s": "trata cada 2 segundos:",
+    "pup_load": "cargando marioneta",
+    "isload": "se esta cargando",
+    "pet": "mascota",
+    "splash_text": [
       "juego de cachorros",
       "clicker de cachorros",
       "cachorro cachorro",
@@ -35,10 +32,10 @@
       "hecho con mascotas",
       "cachorro freeman",
       "JAY SON",
-      "JSON", 
+      "JSON",
       "boonpets",
       "compatible con funkin",
-      "compatible con geometría", 
+      "compatible con geometría",
       "compatible con nuevos terrenos",
       "compatible con programación DRY",
       "para los amigos y compañeros",

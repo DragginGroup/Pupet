@@ -1,3 +1,24 @@
+# 10/11/2024
+
+## 1.1
+- Added "Septimo" Pup Skin
+  - Unlocked with 3000 Pets or more
+- Added Screenshot Feature (press 0 on PC)
+- Added Screenshot Button
+- Added New Main Menu Pup Animation (1% chance)
+- Added Audio Loading from the Github (It isn't in the "and wait" loading so it won't load 4 forever)
+- Added Dog Walker Shop Item
+
+- Changed design of the "Cap" Pup Skin Slightly
+- Changed design of the "White" Pup Skin Slightly
+- Changed Puppy Selector Icons Slightly
+- Changed how skin jsons are loaded (all use one file now)
+- Changed how Pets are displayed (Changed it to dollars now)
+- Changed some Code stuff for consistent counters
+
+- Fixed Bug where Pup Selector icons wouldn't do the Fake Lock
+- Fixed "Spot" Puply Selector Icon
+
 # 9/22/2024
 
 ## 1.0.2
